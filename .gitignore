@@ -1,0 +1,18 @@
+# Secrets — the important one
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+
+# Env / tooling
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
