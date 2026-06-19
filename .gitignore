@@ -1,6 +1,7 @@
 # Secrets — the important one
 .env
 .env.*
+!.env.example
 
 # Python
 venv/
